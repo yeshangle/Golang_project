@@ -1,5 +1,7 @@
 package web_demo
 
-func main(){
+import "fmt"
 
+func main(){
+	fmt.Println("测试一把")
 }
